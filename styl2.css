@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(245, 245, 220, 0.589);
+    text-align: center;
+}
+.social-icons{
+text-align: center;
+}
+.linkn{
+    box-shadow: 0 0 20px;
+    border-radius: 4rem;
+    padding: 10px;
+    color: saddlebrown;
+    transition: 1s ease;
+}
+.linkn:hover{
+    color: black;
+    transition: 1s ease;
+}
+.section{
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    color:saddlebrown;
+    padding: 25px;
+    transition: 1s ease;
+}
+.section:hover{
+    color: black;
+    transition: 1s ease;
+}
+.navbar{
+    box-shadow: 0 0 20px;
+    color: black;
+    border-radius: 4rem;
+    text-align: center;
+    padding: 10px;
+}
+.home{
+    color: black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.home:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.ileti{
+    color: black;
+    padding: 10px;
+    transition: 1s ease; 
+}
+.ileti:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.about{
+    color:black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.about:hover{
+    color:white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.rand{
+    color: black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.rand:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.isim{
+    box-shadow: 0 0 20px;
+    border-radius: 4rem;
+    transition: 1s ease;
+    color: black;
+}
+.isim:hover{
+    color: saddlebrown;
+    transition: 1s ease;
+}
+.btn{
+    box-shadow: 0 0 20px;
+    border-radius: 4rem;
+    transition: 1s ease;
+    color: black;
+}
+.btn:hover{
+    color:saddlebrown;
+    transition: 1s ease;
+}
